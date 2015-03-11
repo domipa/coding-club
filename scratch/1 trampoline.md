@@ -1,4 +1,4 @@
-# - Trampolines
+# Trampolines
 
 
 ## Lesson: 
